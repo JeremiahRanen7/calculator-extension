@@ -35,4 +35,5 @@ To use this calculator extension, follow these steps:
 - Click the "=" button to evaluate the expression and display the result.
 
 ## Screenshot:
-![Screenshot 2024-03-10 114436](https://github.com/JeremiahRanen7/calculator-extension/assets/141173239/afff7290-efcc-4334-a7a0-6517623ca65b)
+![Screenshot 2024-03-10 114436](https://github.com/JeremiahRanen7/calculator-extension/assets/141173239/602846cb-ed65-4d38-9477-1091c53a5b12)
+
